@@ -1,0 +1,6 @@
+@GerenciadorDeDoacoes.Api_HostAddress = http://localhost:5164
+
+GET {{GerenciadorDeDoacoes.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
